@@ -2,5 +2,9 @@
   {
     "package": "era",
     "url": "https://github.com/joeroe/era"
+  },
+  {
+    "package": "rpaleoclim",
+    "url": "https://github.com/joeroe/rpaleoclim"
   }
 ]
